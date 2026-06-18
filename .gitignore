@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+data/clean/
+output/
+data/raw/postingan_kost.txt
+
+.env
+.DS_Store
