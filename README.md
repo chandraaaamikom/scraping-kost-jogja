@@ -75,7 +75,7 @@ cd scraping-kost-jogja
 Untuk Windows:
 
 ```bash
-venv\Scripts\activate
+venv/Scripts/activate
 ```
 
 ### 3. Install library
